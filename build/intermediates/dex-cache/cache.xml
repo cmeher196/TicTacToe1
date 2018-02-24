@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chandra\AndroidStudioProjects\TicTacToe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Chandra\AndroidStudioProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_40628eaf7771816cbca10db5b6b4f6a61553baf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chandra\AndroidStudioProjects\TicTacToe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1a4132231459cad0a2fa883879e75473009221b2">
+        <dex dex="C:\Users\Chandra\AndroidStudioProjects\TicTacToe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_96638ec5d10b3526ccb7502322c6ed8aed7f01d3\classes.dex" />
+    </item>
+
+</items>
